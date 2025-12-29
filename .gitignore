@@ -21,3 +21,12 @@ pnpm-debug.log*
 # OS
 .DS_Store
 Thumbs.db
+
+# vite
+.vite/
+
+# typescript
+*.tsbuildinfo
+
+# large raw datasets (later use)
+# public/data/*.raw
