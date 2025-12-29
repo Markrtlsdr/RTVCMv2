@@ -12,7 +12,7 @@ async function main() {
   const canvas = document.querySelector<HTMLCanvasElement>("#c")!;
   const { device, context, format } = await initWebGPU(canvas);
 
-  const raw = await loadRawU8("/data/sample.raw", SIZE, SIZE, SIZE);
+  const raw = await loadRawU8(`${import.meta.env.BASE_URL}data/sample.raw`, SIZE, SIZE, SIZE);
   const volume = device.createTexture({
     size: { width: SIZE, height: SIZE, depthOrArrayLayers: SIZE },
     dimension: "3d",
